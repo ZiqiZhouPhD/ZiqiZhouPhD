@@ -1,16 +1,32 @@
-## Hi there 👋
+## Ziqi Zhou
 
-<!--
-**ZiqiZhouPhD/ZiqiZhouPhD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a physics PhD candidate at Stony Brook University with a focus on theoretical and numerical statistical mechanics.
 
-Here are some ideas to get you started:
+I have an interest in applying statistical and computational techniques to problems in quantitative finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub account contains my projects relating to quantitative skills.
+
+---
+
+### Research Interests
+- Monte Carlo methods
+- Exploration-exploitation tradoff algorithms
+- Macroeconomic simulations
+
+---
+
+### Selected Projects
+- **Analysis and improvements of Longstaff-Schwartz Method for Option Pricing**  
+LSM with improvements via Brownian bridge, control variates, and alternative regression schemes.
+
+- **Macroeconomic Simulation**
+A simple two-agent household–firm dynamic macroeconomic model.
+
+- **Flashcard Learning App**
+A sampling system with a custom memorization algorithm.
+
+(See pinned repositories for details.)
+
+---
+
+LinkedIn: https://linkedin.com/in/ziqi-zhou-phd
