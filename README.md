@@ -29,4 +29,4 @@ A sampling system with a custom memorization algorithm.
 
 LinkedIn: https://linkedin.com/in/ziqi-zhou-phd
 
-I am also a linguistic analyst, font designer, and input method designer. My projects in these areas can be found this GitHub account: [Gs-Linguashop](https://github.com/Gs-Linguashop).
+I am also a linguistic analyst, font designer, and input method designer. Related projects are available here: [Gs-Linguashop](https://github.com/Gs-Linguashop).
