@@ -4,7 +4,7 @@ I am a PhD candidate in Physics at Stony Brook University, specializing in theor
 
 I have an interest in applying statistical and computational techniques to problems in quantitative finance.
 
-This GitHub account contains my projects relating to quantitative analysis.
+This GitHub account hosts my quantitative analysis projects.
 
 ---
 
