@@ -8,7 +8,7 @@ This GitHub account contains my projects relating to quantitative skills.
 
 ---
 
-### Research Interests
+### Research Experience
 - Monte Carlo methods
 - Exploration-exploitation tradoff algorithms
 - Macroeconomic simulations
@@ -28,3 +28,5 @@ A sampling system with a custom memorization algorithm.
 ---
 
 LinkedIn: https://linkedin.com/in/ziqi-zhou-phd
+
+I am also a linguistic analyst, font designer, and input method designer. My projects in these areas can be found this GitHub account: [Gs-Linguashop](https://github.com/Gs-Linguashop).
