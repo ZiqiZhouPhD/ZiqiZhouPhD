@@ -16,16 +16,14 @@ This GitHub account contains my projects relating to quantitative skills.
 ---
 
 ### Selected Projects
-- **Analysis and improvements of Longstaff-Schwartz Method for Option Pricing**  
+- [**Analysis and improvements of Longstaff-Schwartz Method for Option Pricing**](https://github.com/ZiqiZhouPhD/LSM.git)
 LSM with improvements via Brownian bridge, control variates, and alternative regression schemes.
 
-- **Macroeconomic Simulation**
-A simple two-agent household–firm dynamic macroeconomic model.
+- [**Macroeconomic Agent-Based Simulation Sandbox**](https://github.com/ZiqiZhouPhD/macroecon.git)
+A simple two-agent household–firm dynamic macroeconomic simulation framework flexible for further extensions.
 
-- **Flashcard Learning App**
+- [**Flashcard Learning App**](https://github.com/ZiqiZhouPhD/Flash-Card.git)
 A sampling system with a custom memorization algorithm.
-
-(See pinned repositories for details.)
 
 ---
 
