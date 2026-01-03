@@ -1,6 +1,6 @@
 ## Ziqi Zhou
 
-I am a physics PhD candidate at Stony Brook University with a focus on theoretical and numerical statistical mechanics.
+I am a PhD candidate in Physics at Stony Brook University, specializing in theoretical and numerical statistical mechanics.
 
 I have an interest in applying statistical and computational techniques to problems in quantitative finance.
 
