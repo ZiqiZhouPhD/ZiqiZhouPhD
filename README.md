@@ -8,7 +8,7 @@ This GitHub account hosts my quantitative analysis projects.
 
 ---
 
-### Research Experience
+### Project Interests
 - Monte Carlo methods
 - Exploration-exploitation tradoff algorithms
 - Macroeconomic simulations
