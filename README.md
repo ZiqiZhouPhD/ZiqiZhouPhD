@@ -16,7 +16,7 @@ This GitHub account hosts my quantitative analysis projects.
 ---
 
 ### Selected Projects
-- [**Analysis and improvements of Longstaff-Schwartz Method for Option Pricing**](https://github.com/ZiqiZhouPhD/LSM.git)
+- [**Analysis and Improvements of Longstaff-Schwartz Method for Option Pricing**](https://github.com/ZiqiZhouPhD/LSM.git)
 — LSM with improvements via Brownian bridge, control variates, and alternative regression schemes.
 
 - [**Macroeconomic Agent-Based Simulation Sandbox**](https://github.com/ZiqiZhouPhD/macroecon.git)
